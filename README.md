@@ -8,7 +8,7 @@ https://chia.powduck.com/
 
 testnet_address
 
-http://45.158.34.64/
+https://chia_pool.powduck.com/
 
 
 敬请期待。。。
